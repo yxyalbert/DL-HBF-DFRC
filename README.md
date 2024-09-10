@@ -4,5 +4,5 @@ Figure 4(c) Run the '4c_SNR_TEST.m' .
 Figure 5(a) Run the file '5a_plot_F_C_radarbeampattern.m'.  
 Figure 5(b) Run the file '5b_readplot.m'.  
 Figure 5(c) Run the file '5c_test.m'.  
-Figure 6(a) Run the file '6a_plot_F_C_radarbeampattern.m'.  
+Figure 6(a) Run the file '6a_readplot.m'.  
 Figure 6(b) Run the '6b_trade.m'.
