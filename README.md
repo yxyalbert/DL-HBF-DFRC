@@ -1,6 +1,6 @@
-Deep Learning Based Hybrid Beamforming for mmWave Dual-Functional Radar-Communication
-
 IEEE Latin America Transactions
+
+Deep Learning Based Hybrid Beamforming for mmWave Dual-Functional Radar-Communication
 
 In the vehicle-to-everything (V2X) application scenario, we propose a novel deep learning (DL) based Hybrid beamforming (HBF) design for the dual-functional radar-communication (DFRC) system with the millimeter wave (mmWave)
 massive multiple-in-multiple-output (MIMO) architecture enables real-time data exchange and environmental perception. Crucially, the numerical simulations reveal a significant reduction in bit error rate (BER), from $10^{-5}$ to $10^{-7}$ at the signal-to-noise ratio (SNR) of 0 dB compared to alternative algorithms, underscoring its superiority in ensuring data integrity and reliability during transmission. This reduction in BER, alongside the 1 dB gain in sum-rate and 3 dB improvement in rad-com tradeoff beampattern, underscores the comprehensive advantages of our DL-based HBF design for DFRC systems over existing HBF designs, which provides robust support for future intelligent transportation systems.
